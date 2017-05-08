@@ -1,1 +1,1 @@
-web: gunirocn app:app --logfile -
+web: python app.py
